@@ -297,7 +297,7 @@ h4:hover {
 
 /*-----Mobile------*/
 
-@media screen and (max-width: 375px) {
+@media screen and (max-width: 414px) {
     body {
         background-image: none;
         background: linear-gradient(#FFFFFF, #ebecfb);
