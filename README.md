@@ -38,7 +38,7 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 ### Links
 
 - Solution URL: [https://github.com/Dmaneral/skilled-elearning-landing-page.git](https://github.com/Dmaneral/skilled-elearning-landing-page.git)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [https://dmaneral.github.io/skilled-elearning-landing-page/](https://dmaneral.github.io/skilled-elearning-landing-page/)
 
 ## My process
 
